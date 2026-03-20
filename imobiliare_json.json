@@ -1,0 +1,123 @@
+{
+  "1": {
+    "title": "Vilă 6 camere, Fundeni, 670 mp",
+    "price": "900.000 €",
+    "mainInfo": {
+      "Locație": "București, Fundeni",
+      "Suprafață utilă": "550 m²",
+      "Suprafață construită": "670 m²",
+      "Suprafață teren": "585 m²",
+      "Camere": "6 camere",
+      "Băi": "4 baie",
+      "Anul construcției": "2020",
+      "Regim de înalțime": "D+P+Et1+M"
+    },
+    "facilities": {
+      "Mobilat": "Utilat",
+      "Porti": "Automate",
+      "AC": "Aer condiționat",
+      "Încălzire": "Centrală termică",
+      "Geamuri": "Termopan",
+      "Parcare": "Garaj"
+    },
+    "description": "Imobilul este situat în zona Fundeni. Demisol: hol de acces, bucătărie mobilată/utilată, camera tehnică, baie, dormitor, spălătorie/uscatorie, garaj. Parter: hol de acces, living + zona de dinning și bucătărie. Etaj 1: trei dormitoare cu dressinguri proprii și două băi. Dormitorul matrimonial având dressing și baie proprii. Mansardă: dormitor, baie, living. Garajul este pentru două mașini, se află la demisol iar accesul cu mașînă se face pe rampă cu sistem de degivrare. Poartă garajului se acționează automat. Accesul in garaj se poate face și din casă. Imobilul se vinde mobilat și utilat integral."
+  },
+  "2": {
+    "title": "Vilă 4 camere, Gradina Icoanei, 200 mp",
+    "price": "650.000 €",
+    "mainInfo": {
+      "Locație": "București, Grădina Icoanei",
+      "Suprafață utilă": "166 m²",
+      "Suprafață construită": "200 m²",
+      "Suprafață teren": "372 m²",
+      "Camere": "4 camere",
+      "Băi": "2 baie",
+      "Anul construcției": "1936",
+      "Regim de înalțime": "S+P+M"
+    },
+    "facilities": {
+      "Mobilat": "Casa este în curs de finisare și prețul se modifică în funcție de evoluția lucrărilor",
+      "AC": "Aer condiționat",
+      "Încălzire": "Centrală termică",
+      "Geamuri": "Termopan"
+    },
+    "description": "Vila oferită spre vânzare este situată într-o zona liniștită ultracentrală, în zona Dacia - Grădina Icoanei și a fost construită în stil neoromânesc. Locația este una deosebit de atractivă fiind ușor accesibilă din orice punct al capitalei."
+  },
+  "3": {
+    "title": "Vilă 8 camere, Unirii, 400 mp",
+    "price": "1.280.000 €",
+    "mainInfo": {
+      "Locație": "București, Unirii",
+      "Suprafață construită": "400 m²",
+      "Suprafață teren": "470 m²",
+      "Camere": "8 camere",
+      "Băi": "3 baie",
+      "Regim de înalțime": "P+M"
+    },
+    "facilities": {
+      "Mobilat": "Utilat integral",
+      "Finisaje si amenajari": "Ornamente, semineu, stucaturi si vitralii.",
+      "Gradina": "Terasa si gradina amenajata"
+    },
+    "description": "Imobilul oferit spre vânzare este situat în zona adiacentă Bulevardului Unirii și Calea Călărașilor. Clădirea are o arhitectură deosebită și a fost restaurată și renovată superb cu materiale de cea mai bună calitate."
+  },
+  "4": {
+    "title": "Vilă 6 camere, Unirii, 425 mp",
+    "price": "750.000 €",
+    "mainInfo": {
+      "Locație": "București, Unirii, Sfantul Stefan",
+      "Suprafață utilă": "410 m²",
+      "Suprafață construită": "425 m²",
+      "Suprafață teren": "330 m²",
+      "Camere": "6 camere",
+      "Băi": "4 baie",
+      "Regim de înalțime": "D+P+M"
+    },
+    "facilities": {
+      "Mobilat": "Utilat",
+      "AC": "Aer condiționat",
+      "Încălzire": "Centrală termică",
+      "Geamuri": "Termopan"
+    },
+    "description": "Vila oferită spre vânzare este situată ultracentral, într-o zona liniștită și ușor accesibilă, anume în zona cartierului Evreiesc, Unirii - Sf. Ștefan. Vila are o arhitectură frumoasă și foarte bine întreținută."
+  },
+  "5": {
+    "title": "Vilă 9 camere, Dorobanți, 1000 mp",
+    "price": "4.500.000 €",
+    "mainInfo": {
+      "Locație": "București, Dorobanți",
+      "Suprafață construită": "1000 m²",
+      "Suprafață teren": "460 m²",
+      "Camere": "9 camere",
+      "Băi": "6 baie",
+      "Anul construcției": "2002",
+      "Regim de înalțime": "D+P+2E+M"
+    },
+    "facilities": {
+      "Mobilat": "Utilat",
+      "Încălzire": "Centrală termică",
+      "Geamuri": "Termopan"
+    },
+    "description": "Vila este situată în cartierul Dorobanți, care este un cartier ultracentral de lux, aflat în Sectorul 1, renumit pentru mixul elegant între arhitectură interbelică bine conservată și ansambluri rezidențiale moderne cu finisaje premium. Străzile late, arborii maturi și proximitatea parcurilor precum Floreasca, Herăstrău și George Călinescu creionează un ambient verde și sofisticat. Comunitatea este selectă, alcătuită din expați, diplomați și antreprenori, care beneficiază de facilități premium: cafenele și restaurante gourmet, buticuri de lux, centre wellness, școli și grădinițe de top, precum Colegiul Caragiale și Titu Maiorescu; Transportul public e excelent – patru stații de metrou și numeroase linii de autobuz leagă zona de centrul orașului."
+  },
+  "6": {
+    "title": "Vilă 7 camere, Floreasca",
+    "price": "1.200.000 €",
+    "mainInfo": {
+      "Locație": "București, Floreasca",
+      "Suprafață utilă": "400 m²",
+      "Suprafață construită": "450 m²",
+      "Suprafață teren": "400 m²",
+      "Camere": "7 camere",
+      "Băi": "3 baie",
+      "Regim de înalțime": "D+P+Et+M"
+    },
+    "facilities": {
+      "Mobilat": "Utilat",
+      "Încălzire": "Centrală termică",
+      "Geamuri": "Termopan",
+      "Parcare": "3 locuri"
+    },
+    "description": "Imobilul este situat în zona de nord, lângă Piață Floreasca. Demisol: 3 camere - tehnice și depozitare. Parter: hol, living, dinning, birou, baie, bucătărie, terasă, anexă și curte. Etaj: hol, 3 dormitoare, baie și bucătărie. Mansardă: 3 camere, baie și bucătărie. Anexă și depozitare în curte (a fost garaj). Centrală proprie pe fiecare etaj, finisaje de cea mai bună calitate. Parcare pentru 3 mașini în curte."
+  }
+}
